@@ -24,6 +24,9 @@
  + 4.使用 v-for 循环渲染每个 item 项
 
  ## 改造九宫格样式
+
+![vue项目](E:\javaFramework\javaDataStructure\队列\vue项目.PNG)
+
 ### 以后慢慢完善，加油！！！
 
 ####    【主流开源协议之间有何异同】
