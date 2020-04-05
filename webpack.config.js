@@ -31,5 +31,6 @@ module.exports = {
                 }
             },//配置Babel来转换高级的ES语法
         ]
-    }
+    },
+    
 }
